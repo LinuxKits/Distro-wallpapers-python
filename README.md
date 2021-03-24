@@ -20,4 +20,4 @@ Choose your option by entering the number to the terminal :-
 (2) Extract to ~/.wallpaper
 (3) Extract to custom location (you'll be prompted to enter the location)
 ```
-4. 
+4. Configure nitrogen (or feh) to open the folder to browse images `nitrogen /path/to/image/directory/`, set a random wallpaper every session `nitrogen --random /wallpaper/folder --save`, set a wallpaper `nitrogen /path/to/image/directory/` and stuff.
