@@ -12,7 +12,7 @@ Choose your option by entering the number to the terminal :-
 (5) Quit
 Enter your desired option : 
 ```
-2. Download the files user wants to download, `git clone` if the user wants the full repo, `git pull` for the folders the user wants to download, `curl [the file the file user wants to download` or `wget [the file the user wants to download` to download the raw tar file for the distro they want
+2. Download the files user wants to download, `git clone` if the user wants the full repo, `git pull` for the folders the user wants to download, `curl [the file the file user wants to download]` or `wget [the file the user wants to download]` to download the raw tar file for the distro they want
 3. Extract the tar files to the user's desired location, print default dir(s) if the user is unsure :- 
 ```
 Choose your option by entering the number to the terminal :-
